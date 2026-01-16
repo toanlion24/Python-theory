@@ -8,7 +8,7 @@ Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đ
 
 ## 📚 Danh sách bài học
 
-### [Bài 1: Cú Pháp Cơ Bản Python](./01_Cu_Phap_Co_Ban_Python.ipynb)
+### [Bài 1: Cú Pháp Cơ Bản Python](./01_Basic_Python_Syntax.ipynb)
 **Nội dung chính:**
 - Comments (Ghi chú)
 - Variables (Biến)
@@ -26,7 +26,7 @@ Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đ
 
 ---
 
-### [Bài 2: Biến và Kiểu Dữ Liệu](./02_Bien_Va_Kieu_Du_Lieu.ipynb)
+### [Bài 2: Biến và Kiểu Dữ Liệu](./02_Variables_and_Data_Types.ipynb)
 **Nội dung chính:**
 - Variables (Biến)
   - Khai báo và sử dụng biến
@@ -45,7 +45,7 @@ Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đ
 
 ---
 
-### [Bài 3: Làm Việc Với Chuỗi](./03_Lam_Viec_Voi_Chuoi.ipynb)
+### [Bài 3: Làm Việc Với Chuỗi](./03_Working_with_Strings.ipynb)
 **Nội dung chính:**
 - Tạo Chuỗi (String Creation)
 - Nối Chuỗi (String Concatenation)
@@ -69,7 +69,7 @@ Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đ
 
 ---
 
-### [Bài 4: Câu Lệnh Điều Kiện](./04_Cau_Lenh_Dieu_Kien.ipynb)
+### [Bài 4: Câu Lệnh Điều Kiện](./04_Conditional_Statements.ipynb)
 **Nội dung chính:**
 - Giới thiệu về Câu lệnh Điều kiện
 - Câu lệnh IF đơn giản
@@ -95,7 +95,7 @@ Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đ
 
 ---
 
-### [Bài 5: Vòng Lặp](./05_Vong_Lap.ipynb)
+### [Bài 5: Vòng Lặp](./05_Loops.ipynb)
 **Nội dung chính:**
 - Giới thiệu về Vòng lặp (Loops)
 - Vòng lặp FOR
@@ -187,7 +187,7 @@ Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đ
 
 ---
 
-### [Bài 9: Lists (Danh sách) trong Python](./09_Lists%20in%20Python.ipynb)
+### [Bài 9: Lists (Danh sách) trong Python](./09_Lists_in_Python.ipynb)
 **Nội dung chính:**
 - Khái niệm về Lists
 - Tạo Lists (rỗng, có phần tử, từ các kiểu dữ liệu khác)
