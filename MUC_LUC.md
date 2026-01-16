@@ -2,7 +2,7 @@
 
 ## Tổng quan
 
-Tài liệu này bao gồm 5 bài học cơ bản về Python, từ cú pháp cơ bản đến các cấu trúc điều khiển và vòng lặp.
+Tài liệu này bao gồm 9 bài học về Python, từ cú pháp cơ bản đến các kiểu dữ liệu, xử lý ngoại lệ, hàm và danh sách.
 
 ---
 
@@ -133,13 +133,99 @@ Tài liệu này bao gồm 5 bài học cơ bản về Python, từ cú pháp c�
 
 ---
 
+### [Bài 6: Typecasting (Ép Kiểu Dữ Liệu)](./06_Typecasting.ipynb)
+**Nội dung chính:**
+- Khái niệm Typecasting
+- Ép kiểu ngầm định (Implicit Type Casting)
+- Ép kiểu tường minh (Explicit Type Casting)
+- Chuyển đổi sang int, float, str, bool
+- Chuyển đổi giữa các kiểu dữ liệu collection
+- Các lưu ý và best practices
+
+---
+
+### [Bài 7: Exceptions (Xử lý Ngoại lệ)](./07_Exceptions.ipynb)
+**Nội dung chính:**
+- Khái niệm về Exceptions
+- Các loại Exception phổ biến
+  - SyntaxError, TypeError, ValueError
+  - IndexError, KeyError, ZeroDivisionError
+  - FileNotFoundError, AttributeError, NameError
+- Xử lý Exceptions với try-except
+- try-except-else
+- try-except-finally
+- Xử lý nhiều loại exception
+- Nested try-except
+- Raise exceptions
+- Custom exceptions
+- Best practices
+
+---
+
+### [Bài 8: Functions và Built-in Functions](./08_Functions_and_builtin_functions.ipynb)
+**Nội dung chính:**
+- Khái niệm về Functions
+- Định nghĩa và gọi Function
+- Các loại tham số
+  - Positional Arguments
+  - Keyword Arguments
+  - Default Arguments
+  - Variable-length Arguments (*args, **kwargs)
+- Return values
+- Scope và Namespace
+- Lambda functions
+- Built-in Functions
+  - print(), input(), len()
+  - type(), isinstance()
+  - min(), max(), sum()
+  - sorted(), reversed()
+  - range(), enumerate(), zip()
+  - map(), filter(), reduce()
+- Decorators (Cơ bản)
+- Recursion (Đệ quy)
+- Best practices
+
+---
+
+### [Bài 9: Lists (Danh sách) trong Python](./09_Lists%20in%20Python.ipynb)
+**Nội dung chính:**
+- Khái niệm về Lists
+- Tạo Lists (rỗng, có phần tử, từ các kiểu dữ liệu khác)
+- Truy cập phần tử (index dương/âm, slicing)
+- Thay đổi và cập nhật phần tử
+- Thêm phần tử (append, extend, insert)
+- Xóa phần tử (remove, pop, del, clear)
+- Các phương thức quan trọng
+  - len(), count(), index()
+  - sort(), sorted(), reverse()
+  - copy()
+- Kiểm tra phần tử (in, not in)
+- Duyệt qua List (iteration)
+- List Comprehension
+  - Cơ bản
+  - Với điều kiện
+  - Với if-else
+  - Lồng nhau
+- Nested Lists (List lồng nhau)
+- Các hàm built-in hữu ích (min, max, sum, all, any)
+- So sánh Lists
+- Ứng dụng thực tế
+- Lưu ý quan trọng (tham chiếu vs sao chép, shallow copy vs deep copy)
+- Performance và Best Practices
+
+---
+
 ## 📖 Thứ tự học tập được khuyến nghị
 
 1. **Bắt đầu với Bài 1** - Nắm vững cú pháp cơ bản của Python
 2. **Tiếp tục với Bài 2** - Hiểu về biến và các kiểu dữ liệu
 3. **Học Bài 3** - Làm quen với thao tác chuỗi
 4. **Chuyển sang Bài 4** - Học cách sử dụng câu lệnh điều kiện
-5. **Kết thúc với Bài 5** - Nắm vững vòng lặp và các kỹ thuật lặp
+5. **Học Bài 5** - Nắm vững vòng lặp và các kỹ thuật lặp
+6. **Học Bài 6** - Hiểu về ép kiểu dữ liệu
+7. **Học Bài 7** - Xử lý ngoại lệ và lỗi
+8. **Học Bài 8** - Làm việc với hàm và built-in functions
+9. **Học Bài 9** - Nắm vững Lists và các thao tác với danh sách
 
 ---
 
