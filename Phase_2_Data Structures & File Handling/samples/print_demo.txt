@@ -1,0 +1,5 @@
+Hello from print()!
+Line 2
+Number: 42
+List: [1, 2, 3]
+Name: An, Age: 20

@@ -1,0 +1,5 @@
+Xin chào Python!
+Đây là dòng thứ 2.
+Đây là dòng thứ 3.
+Python rất thú vị!
+Hết file.

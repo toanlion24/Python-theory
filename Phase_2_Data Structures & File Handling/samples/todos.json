@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "task": "Học Python",
+    "done": true,
+    "created": "2026-01-24T17:35:02.380126"
+  },
+  {
+    "id": 2,
+    "task": "Làm bài tập",
+    "done": false,
+    "created": "2026-01-24T17:35:02.380126"
+  },
+  {
+    "id": 3,
+    "task": "Đọc sách",
+    "done": false,
+    "created": "2026-01-24T17:35:02.381130"
+  }
+]

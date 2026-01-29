@@ -1,0 +1,4 @@
+Dòng 1
+Dòng 2
+Dòng 3 (append)
+Dòng 4 (append)

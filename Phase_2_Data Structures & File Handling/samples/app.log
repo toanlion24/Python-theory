@@ -1,0 +1,4 @@
+[2026-01-24 17:35:02] [INFO] Application started
+[2026-01-24 17:35:02] [INFO] User logged in
+[2026-01-24 17:35:02] [ERROR] Database connection failed
+[2026-01-24 17:35:02] [WARNING] Retrying connection...

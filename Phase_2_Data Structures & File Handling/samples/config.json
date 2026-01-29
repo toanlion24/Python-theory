@@ -1,0 +1,31 @@
+{
+  "name": "MyApp",
+  "version": "1.1.0",
+  "settings": {
+    "theme": "light",
+    "language": "vi",
+    "notifications": true
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "An",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Binh",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Cuong",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Dung",
+      "active": true
+    }
+  ]
+}

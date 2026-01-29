@@ -1,0 +1,17 @@
+
+=== samples\append_test.txt ===
+Dòng 1
+Dòng 2
+Dòng 3 (append)
+Dòng 4 (append)
+
+
+=== samples\combined.txt ===
+=== From source1 ===
+Content from source 1
+=== From source2 ===
+Content from source 2
+
+
+=== samples\exclusive_test.txt ===
+File mới được tạo!

@@ -1,0 +1,4 @@
+=== From source1 ===
+Content from source 1
+=== From source2 ===
+Content from source 2

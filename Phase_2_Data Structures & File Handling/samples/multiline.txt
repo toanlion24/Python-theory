@@ -1,0 +1,10 @@
+Line 1: Python is a programming language.
+Line 2: Python is easy to learn.
+Line 3: Python is powerful.
+Line 4: Python is used for web development.
+Line 5: Python is used for data science.
+Line 6: Python is used for machine learning.
+Line 7: Python is used for automation.
+Line 8: Python is versatile.
+Line 9: Python has great community.
+Line 10: I love Python!
